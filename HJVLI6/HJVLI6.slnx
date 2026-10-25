@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GPMIDIConvert.Client/GPMIDIConvert.Client.csproj" />
+  <Project Path="GPMIDIConvert.Core/GPMIDIConvert.Core.csproj" />
+</Solution>

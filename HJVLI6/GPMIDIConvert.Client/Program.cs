@@ -1,6 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using System.Xml.Serialization;
+using System.Text.Json;
 
 using GPMIDIConvert.Core.FileReader.GPIF_Extraction;
 using GPMIDIConvert.Core.Serialization;

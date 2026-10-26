@@ -4257,5 +4257,3 @@ public partial class GPIFScoreView
         }
     }
 }
-
-

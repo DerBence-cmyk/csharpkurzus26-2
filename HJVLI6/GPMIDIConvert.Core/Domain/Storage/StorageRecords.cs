@@ -24,5 +24,5 @@ public sealed record GuitarProNote(
     long DurationTicks,
     int StringNumber,
     int Fret,
-    string Articulation
+    List<NoteArticulation> Articulations
 );

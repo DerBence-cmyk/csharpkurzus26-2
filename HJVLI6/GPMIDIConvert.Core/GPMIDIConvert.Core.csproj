@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\MIDI_Conversion\NewFolder\" />
+    <Folder Include="Domain\MIDI_Conversion\Templates\Articulation_Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Melanchall.DryWetMidi" Version="8.0.3" />
   </ItemGroup>
 
 </Project>
